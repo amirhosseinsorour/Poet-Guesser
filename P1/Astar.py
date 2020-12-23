@@ -10,7 +10,7 @@ class Node(object):
         self.process = ""
         self.visited = False
         self.depth = 0
-        self.heuristic = 0
+        self.heuristic = -1
 
     def add_environment(self, environment):
         self.environments.append(environment)
@@ -32,7 +32,17 @@ class Node(object):
             self.depth = self.parent.depth + 1
 
     def set_heuristic(self):
-        self.heuristic = self.depth  # temporary
+        if self.heuristic < 0:
+            for e in self.environments:
+                colors = []
+                global n, m
+                for i, card in enumerate(e):
+                    num, color = string_to_card(card)
+                    if color not in color:
+                        colors.append(color)
+                    self.heuristic += abs(num + i - n)
+                self.heuristic += len(colors)
+            self.heuristic -= m
 
     def is_goal(self):
         for e in self.environments:
@@ -107,6 +117,7 @@ def print_way(root, depth):
 
 def Astar(root):
     unvisited = [root]
+    root.set_heuristic()
     while len(unvisited) != 0:
         i = find_min(unvisited)
         node = unvisited.pop(i)
