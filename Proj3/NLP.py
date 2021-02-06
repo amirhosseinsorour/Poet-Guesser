@@ -2,14 +2,20 @@
 import collections
 
 
-def get_sentences(filePath):
-    temp_list = list()
+def get_sentences(filePath, isTest):
     punctuations = ".،:؛!؟*\"\'«»"
-    with open(filePath, 'r') as f:
+    with open(filePath, 'r', encoding="utf-8") as f:
+        temp_list = dict() if isTest else list()
         for line in f.readlines():
             line = line.translate(line.maketrans('', '', punctuations))
-            line = "</s> " + line.rstrip("\n") + " <s>"
-            temp_list.append(line)
+            if isTest:
+                line = line.split("\t")
+                line[1] = "</s> " + line[1].rstrip("\n") + " <s>"
+                temp_list.update({line[1]: int(line[0])})
+            else:
+                line = "</s> " + line.rstrip("\n") + " <s>"
+                temp_list.append(line)
+        f.close()
     return temp_list
 
 
@@ -81,20 +87,114 @@ def build_bigram(bigram_dict, unigram_dict):
     return sorted_bigram_model
 
 
-def backoff_bigram_model(poet):
+def build_all_models(poet):
     filePath = "train_set\\" + poet + "_train.txt"
-    all_sentences = get_sentences(filePath)
+    all_sentences = get_sentences(filePath, False)
     unigram_dict = build_dictionary(all_sentences, 1)
     bigram_dict = build_dictionary(all_sentences, 2)
     unigram_model = build_unigram(unigram_dict)
     bigram_model = build_bigram(bigram_dict, unigram_dict)
-    return 1
 
+    backoff_model = dict()
+    for pair, count in bigram_dict.items():
+        unigram_probability = unigram_model[pair.split()[0]]
+        bigram_probability = bigram_model[pair]
+        backoff_probability = (landa3 * bigram_probability) + (landa2 * unigram_probability) + (landa1 * e)
+        if backoff_probability > 1:
+            print(pair + "\n" + str(backoff_probability) + "\n")
+        backoff_model.update({pair: backoff_probability})
+    return backoff_model, bigram_model, unigram_model
+
+
+def accuracy():
+    test_sentences = get_sentences("test_set\\test_file.txt", True)
+    count = 0
+    with open("test_set\\answer_file.txt", 'w' , encoding="utf-8") as f:
+        for sentence in test_sentences.keys():
+            f.write(sentence + "\n")
+            print(sentence)
+            poet = get_poet(test_sentences[sentence])
+            f.write("Real poet: " + poet + "\n\n")
+            ferdowsi_prob = probability(sentence, "ferdowsi")
+            hafez_prob = probability(sentence, "hafez")
+            molavi_prob = probability(sentence, "molavi")
+            f.write("Ferdowsi probability: " + str(ferdowsi_prob) + "\n")
+            f.write("Hafez probability: " + str(hafez_prob) + "\n")
+            f.write("Molavi probability: " + str(molavi_prob) + "\n")
+            guessed_poet = get_poet(get_max(ferdowsi_prob, hafez_prob, molavi_prob))
+            if guessed_poet == poet:
+                count += 1
+            f.write("\nGuessed poet: " + guessed_poet + "\n")
+            f.write("=============================================================\n")
+    f.close()
+    return count / test_sentences.keys().__len__() * 100
+
+
+def probability(sentence, poet):
+    backoff_model, bigram_model, unigram_model = get_all_models(poet)
+    pair_of_words = get_pair_of_words([sentence])
+    for pair in pair_of_words:
+        if pair in backoff_model.keys():
+            return backoff_model[pair]
+        else:
+            u = pair.split()[0]
+            if u in unigram_model.keys():
+                return (landa2 * unigram_model[u]) + (landa1 * e)
+            else:
+                return landa1 * e
+
+
+def get_all_models(poet):
+    if poet == "ferdowsi":
+        return ferdowsi_backoff_model, ferdowsi_bigram_model, ferdowsi_unigram_model
+    if poet == "hafez":
+        return hafez_backoff_model, hafez_bigram_model, hafez_unigram_model
+    if poet == "molavi":
+        return molavi_backoff_model, molavi_bigram_model, molavi_unigram_model
+
+
+def get_poet(flag):
+    if flag == 1:
+        return "ferdowsi"
+    if flag == 2:
+        return "hafez"
+    if flag == 3:
+        return "molavi"
+
+
+def get_max(ferdowsi_prob, hafez_prob, molavi_prob):
+    if ferdowsi_prob >= hafez_prob:
+        if ferdowsi_prob >= molavi_prob:
+            return 1
+        else:
+            return 3
+    else:
+        if hafez_prob >= molavi_prob:
+            return 2
+        else:
+            return 3
+
+
+landa1 = 0.003
+landa2 = 0.007
+landa3 = 0.99
+e = 0.002
+
+ferdowsi_unigram_model = dict()
+ferdowsi_bigram_model = dict()
+ferdowsi_backoff_model = dict()
+
+hafez_unigram_model = dict()
+hafez_bigram_model = dict()
+hafez_backoff_model = dict()
+
+molavi_unigram_model = dict()
+molavi_bigram_model = dict()
+molavi_backoff_model = dict()
 
 if __name__ == '__main__':
-    ferdowsi_backoff_bigram_model = backoff_bigram_model("ferdowsi")
-    hafez_backoff_bigram_model = backoff_bigram_model("hafez")
-    molavi_backoff_bigram_model = backoff_bigram_model("molavi")
-    # fedowsi_models = [0, ferdowsi_unigram_model, ferdowsi_bigram_model]
+    ferdowsi_backoff_model, ferdowsi_bigram_model, ferdowsi_unigram_model = build_all_models("ferdowsi")
+    hafez_backoff_model, hafez_bigram_model, hafez_unigram_model = build_all_models("hafez")
+    molavi_backoff_model, molavi_bigram_model, molavi_unigram_model = build_all_models("molavi")
 
-    test_sentences = get_sentences("test_set\\test_file.txt")
+    print(accuracy())
