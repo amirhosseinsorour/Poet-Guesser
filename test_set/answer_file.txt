@@ -1,0 +1,1242 @@
+</s> وزان جایگه نالهٔ گاودم <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.005654133798145892
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> برین سان رود آفتاب سپهر <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0030141337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> به ماه خجسته به خرداد روز <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.04415413379814589
+Hafez probability: 0.04081975056689343
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> مبادا که گردی تو پیمان شکن <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0014741337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> سرای سپنجست هرچون که هست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0009241337981458916
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> سلیح تو درکارزار آورد <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0015841337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> گزافه مفرمانی خون ریختن <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> به گیتی نگر کین هنرها کراست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.04415413379814589
+Hafez probability: 0.04081975056689343
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> یکی دست برداشته به آسمان <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.02039413379814589
+Hafez probability: 0.0010911791383219956
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> برسید دانش کرا سودمند <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> به هفتم که از نیک و بد درجهان <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.04415413379814589
+Hafez probability: 0.04081975056689343
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> دگر بهر ازو گنج و تاجست و نام <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.004774133798145891
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بپرسید چندی که آموختی <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0016941337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چنین داد پاسخ که دانای پیر <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.011924133798145891
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> شما را ستایش فزونست ازان <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0026841337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چو با باختر ساختی ساز جنگ <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.051084133798145887
+Hafez probability: 0.012662607709750565
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ندارد تن خویش با رنج و درد <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0014741337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چو هنگامه رفتن آمد فراز <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.051084133798145887
+Hafez probability: 0.012662607709750565
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بپرسد که گیتی تن آسان کراست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0010341337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> وزان کس که ماند همی نام بد <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.005654133798145892
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چنین داد پاسخ که زنرا که شرم <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.011924133798145891
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بپرسید در دل هراس از چه بیش <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0016941337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بپرسید کز درد بر کیست رنج <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0016941337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> سپه را بیاراید از گنج خویش <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.006424133798145891
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> گراینده باشی بکردار دین <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> اگر دوست با دوست گیرد شمار <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.01016413379814589
+Hafez probability: 0.009062607709750566
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ز هرکار کردن تو را ننگ نیست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.056144133798145895
+Hafez probability: 0.02127689342403628
+Molavi probability: 0.008207963639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> همانست رای و همینست راه <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0009241337981458916
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> یکی نامه بنوشت با سوگ و درد <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.02039413379814589
+Hafez probability: 0.0010911791383219956
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چو قیصر نگه کرد وعنوان بدید <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.051084133798145887
+Hafez probability: 0.012662607709750565
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بعنوان ز قیصر سرافراز روم <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بزرگ آنک او را بسی دشمنست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ‌گر از دوست دشمن نداند همی <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.017934036281179136
+Molavi probability: 0.024542963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> سپاهی گذشت از مداین به دشت <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0021341337981458913
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بدو هفته از رومیان سی هزار <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.012254133798145892
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بیامد برشاه موبد چوگرد <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.00785413379814589
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> فرستاده‌ای جست بوزرجمهر <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0010341337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بدو کفشگر گفت من این دهم <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.012254133798145892
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چنین گفتن زان پس که یزدان سپاس <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.011924133798145891
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> یکی پور دارم رسیده بجای <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.02039413379814589
+Hafez probability: 0.0010911791383219956
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بما بر پس از مرگ نفرین بود <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0010341337981458914
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> چو رومی سر تاج کسری بدید <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.051084133798145887
+Hafez probability: 0.012662607709750565
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> خرد در زمانه شهنشاه راست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0022441337981458915
+Hafez probability: 0.000962607709750567
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> از آباد بومش بر آریم خاک <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.006974133798145891
+Hafez probability: 0.020891179138321996
+Molavi probability: 0.025409213639978577
+
+Guessed poet: molavi
+=============================================================
+</s> فراوان ز هر در سخن راندند <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0019141337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> همه یکسر آباد از سیم و زر <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.021824133798145892
+Hafez probability: 0.0016054648526077097
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> که روزی فرازست و روزی نشیب <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.06351413379814588
+Hafez probability: 0.06306260770975056
+Molavi probability: 0.007589213639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> بگاه بسیجیدن مرگ می <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0009241337981458916
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> جهان راهمی کدخدایی بجست <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.0052141337981458915
+Hafez probability: 0.0021197505668934242
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ز هفتاد چون سالیان درگذشت <s>
+Real poet: ferdowsi
+
+Ferdowsi probability: 0.056144133798145895
+Hafez probability: 0.02127689342403628
+Molavi probability: 0.008207963639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> زین خوش رقم که بر گل رخسار می‌کشی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.003019750566893424
+Molavi probability: 0.0030104636399785763
+
+Guessed poet: hafez
+=============================================================
+</s> خرد در زنده رود انداز و می‌نوش <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0022441337981458915
+Hafez probability: 0.000962607709750567
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> مسیحای مجرد را برازد <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ز وصف حسن تو حافظ چگونه نطق زند <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.056144133798145895
+Hafez probability: 0.02127689342403628
+Molavi probability: 0.008207963639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> سلام الله ما کر اللیالی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> کجا یابم وصال چون تو شاهی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> مسکین چو من به عشق گلی گشته مبتلا <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> تا بی‌سر و پا باشد اوضاع فلک زین دست <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.019862607709750565
+Molavi probability: 0.03939296363997857
+
+Guessed poet: molavi
+=============================================================
+</s> حافظا‌گر ندهد داد دلت آصف عهد <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> انت رواح رند الحمی و زاد غرامی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> سینه مالامال درد است‌ای دریغا مرهمی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0010911791383219956
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> قیاس کردم و تدبیر عقل در ره عشق <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> احمد الله علی معدله السلطان <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> وقت را غنیمت دان آن قدر که بتوانی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.001401713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> دل ز ناوک چشمت گوش داشتم لیکن <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.005984133798145891
+Hafez probability: 0.008162607709750566
+Molavi probability: 0.002391713639978576
+
+Guessed poet: hafez
+=============================================================
+</s> ملول از همرهان بودن طریق کاردانی نیست <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> تو پیک خلوت رازی و دیده بر سر راهت <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.010274133798145891
+Hafez probability: 0.007776893424036281
+Molavi probability: 0.008702963639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ز تندباد حوادث نمی‌توان دیدن <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.056144133798145895
+Hafez probability: 0.02127689342403628
+Molavi probability: 0.008207963639978576
+
+Guessed poet: ferdowsi
+=============================================================
+</s> خیز و جهدی کن چو حافظ تا مگر <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> دیده ما چو به امید تو دریاست چرا <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0017340362811791386
+Molavi probability: 0.001401713639978576
+
+Guessed poet: hafez
+=============================================================
+</s> کار خود‌گر به کرم بازگذاری حافظ <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0017340362811791386
+Molavi probability: 0.0022679636399785762
+
+Guessed poet: molavi
+=============================================================
+</s> سحرگه ره روی در سرزمینی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> نه حافظ را حضور درس خلوت <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.00884413379814589
+Hafez probability: 0.003919750566893423
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> نازنینی چو تو پاکیزه دل و پاک نهاد <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> گفتی از حافظ ما بوی ریا می‌آید <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.000962607709750567
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> ‌ای بی‌خبر بکوش که صاحب خبر شوی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.018705464852607708
+Molavi probability: 0.015632963639978577
+
+Guessed poet: hafez
+=============================================================
+</s> سحرم هاتف میخانه به دولتخواهی <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> کلک تو بارک الله بر ملک و دین گشاده <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> دانم دلت ببخشد بر عجز شب نشینان <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> سخن غیر مگو با من معشوقه پرست <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0038941337981458915
+Hafez probability: 0.0021197505668934242
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> مرا که از رخ او ماه در شبستان است <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0052141337981458915
+Hafez probability: 0.0037911791383219958
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> رفیقان چنان عهد صحبت شکستند <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> ساقی چمن گل را بی‌روی تو رنگی نیست <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.004305464852607709
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> چندان چو صبا بر تو گمارم دم همت <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> آن طره که هر جعدش صد نافه چین ارزد <s>
+Real poet: hafez
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.01227689342403628
+Molavi probability: 0.023676713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> جمله را چون روز رستاخیز من <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.006227963639978576
+
+Guessed poet: molavi
+=============================================================
+</s> وانمایم حوض کوثر را به جوش <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> گفت هین در کش که اسبت گرم شد <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.004562607709750566
+Molavi probability: 0.027512963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> هم دغل را هم بغل را بر درد <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0031241337981458913
+Hafez probability: 0.0021197505668934242
+Molavi probability: 0.006104213639978575
+
+Guessed poet: molavi
+=============================================================
+</s> ‌گر بخواهد  سوی محسوسات رفت <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.017934036281179136
+Molavi probability: 0.024542963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> دل چه می‌گوید بدیشان ای عجب <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.005984133798145891
+Hafez probability: 0.008162607709750566
+Molavi probability: 0.002391713639978576
+
+Guessed poet: hafez
+=============================================================
+</s> مکر خود را‌گر تو انکار آوری <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.001401713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> امتحان کن جمله ما را‌ای کریم <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> نار از آن آمد عذاب کافران <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> غیب مطلوب حق آمد چند گاه <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> ‌گر ویست این از چه فرد است و خفیست <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.017934036281179136
+Molavi probability: 0.024542963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> یوْمنون بالْغیب می‌باید مرا <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> غایب از شه در کنار ثغرها <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> زآنکه شعشاع حضور آفتاب <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.004866713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> هر کسی را‌گر بدی آن چشم و زور <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0024641337981458917
+Hafez probability: 0.01600546485260771
+Molavi probability: 0.024790463639978576
+
+Guessed poet: molavi
+=============================================================
+</s> حکم بر دل بعد از این بی‌واسطه <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.001154213639978576
+
+Guessed poet: molavi
+=============================================================
+</s> صبح چون دم زد  علم برداشت خور <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.000962607709750567
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> دیو می‌سازد جفان کالجواب <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0015254636399785761
+
+Guessed poet: molavi
+=============================================================
+</s> خواب مرده لقمه مرده یار شد <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: hafez
+=============================================================
+</s> نار پاکان را ندارد خود زیان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> نار صحت چون فروزد در وجود <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> میرسید او را مدد از بیحدی <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> از علی آموز اخلاص عمل <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.006974133798145891
+Hafez probability: 0.020891179138321996
+Molavi probability: 0.025409213639978577
+
+Guessed poet: molavi
+=============================================================
+</s> آن چه دیدی برتر از کون و مکان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.01227689342403628
+Molavi probability: 0.023676713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> امت احمد که هستند از کرام <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> صد هزاران می‌چشاند روح را <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0010341337981458914
+Hafez probability: 0.002376893424036281
+Molavi probability: 0.006104213639978575
+
+Guessed poet: molavi
+=============================================================
+</s> یا تو واگو آنچه عقلت یافته است <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.007134036281179138
+Molavi probability: 0.004619213639978576
+
+Guessed poet: hafez
+=============================================================
+</s> تا بنگشاید دری را دیدبان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.019862607709750565
+Molavi probability: 0.03939296363997857
+
+Guessed poet: molavi
+=============================================================
+</s> چون جنین را نوبت تدبیر رو <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.008934036281179137
+Molavi probability: 0.04236296363997858
+
+Guessed poet: molavi
+=============================================================
+</s> امت وحدی یکی و صد هزار <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> آنکه از بادی رود از جا خسی است <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0030104636399785763
+
+Guessed poet: molavi
+=============================================================
+</s> تا که اعطا لله آید جود من <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.019862607709750565
+Molavi probability: 0.03939296363997857
+
+Guessed poet: molavi
+=============================================================
+</s> ‌گر هزاران بنده باشندت گواه <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.017934036281179136
+Molavi probability: 0.024542963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> چون گواهی بندگان مقبول نیست <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.008934036281179137
+Molavi probability: 0.04236296363997858
+
+Guessed poet: molavi
+=============================================================
+</s> نی به سحر ساحران فرعونشان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0010911791383219956
+Molavi probability: 0.005732963639978576
+
+Guessed poet: molavi
+=============================================================
+</s> پس وفاگر را چه بخشم تو بدان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.006314133798145892
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.010930463639978577
+
+Guessed poet: molavi
+=============================================================
+</s> هیچ بغضی نیست در جانم ز تو <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0013483219954648527
+Molavi probability: 0.002391713639978576
+
+Guessed poet: molavi
+=============================================================
+</s> باز شب منسوخ شد از نور روز <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.009197963639978577
+
+Guessed poet: molavi
+=============================================================
+</s> چون بریده گشت حلق رزق خوار <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.008934036281179137
+Molavi probability: 0.04236296363997858
+
+Guessed poet: molavi
+=============================================================
+</s> چون شکسته‌بند آمد دست او <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.008934036281179137
+Molavi probability: 0.04236296363997858
+
+Guessed poet: molavi
+=============================================================
+</s> هر که را آن حکم بر سر آمدی <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0024641337981458917
+Hafez probability: 0.01600546485260771
+Molavi probability: 0.024790463639978576
+
+Guessed poet: molavi
+=============================================================
+</s> یا غیاث المستغیثین اهدنا <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.007134036281179138
+Molavi probability: 0.004619213639978576
+
+Guessed poet: hafez
+=============================================================
+</s> ‌گر تو طعنه می‌زنی بر بندگان <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.003564133798145891
+Hafez probability: 0.017934036281179136
+Molavi probability: 0.024542963639978575
+
+Guessed poet: molavi
+=============================================================
+</s> ما همه نفسی و نفسی می‌زنیم <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.007519750566893424
+Molavi probability: 0.004619213639978576
+
+Guessed poet: hafez
+=============================================================
+</s> برگ بی‌برگی تو را چون برگ شد <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0009067136399785761
+
+Guessed poet: molavi
+=============================================================
+</s> فرقتی لو لم تکن فی ذا السکون <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> آنکه او تن را بدین سان پی کند <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0030104636399785763
+
+Guessed poet: molavi
+=============================================================
+</s> خویشتن آراسته از بهر او <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.001772963639978576
+
+Guessed poet: molavi
+=============================================================
+</s> گرد دید ابلیس و گفت این فرع طین <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.001219750566893424
+Molavi probability: 0.0012779636399785762
+
+Guessed poet: molavi
+=============================================================
+</s> یک جهودی آنقدر زهره نداشت <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0009241337981458916
+Hafez probability: 0.002376893424036281
+Molavi probability: 0.004124213639978576
+
+Guessed poet: molavi
+=============================================================
+</s> نیم بهر حق شد و نیمی هوا <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0009241337981458916
+Hafez probability: 0.0008340362811791384
+Molavi probability: 0.0012779636399785762
+
+Guessed poet: molavi
+=============================================================
+</s> قرب پنجه کس ز خویش و قوم او <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0006592136399785761
+
+Guessed poet: ferdowsi
+=============================================================
+</s> نان چو معنی‌بود بود آن خار سبز <s>
+Real poet: molavi
+
+Ferdowsi probability: 0.0007041337981458915
+Hafez probability: 0.0005768934240362812
+Molavi probability: 0.0015254636399785761
+
+Guessed poet: molavi
+=============================================================

@@ -112,7 +112,6 @@ def accuracy():
     with open("test_set\\answer_file.txt", 'w' , encoding="utf-8") as f:
         for sentence in test_sentences.keys():
             f.write(sentence + "\n")
-            print(sentence)
             poet = get_poet(test_sentences[sentence])
             f.write("Real poet: " + poet + "\n\n")
             ferdowsi_prob = probability(sentence, "ferdowsi")
@@ -175,8 +174,8 @@ def get_max(ferdowsi_prob, hafez_prob, molavi_prob):
             return 3
 
 
-landa1 = 0.003
-landa2 = 0.007
+landa1 = 0.005
+landa2 = 0.005
 landa3 = 0.99
 e = 0.002
 
